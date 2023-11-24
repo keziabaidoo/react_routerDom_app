@@ -1,0 +1,18 @@
+
+
+
+a{
+  text-decoration: none;
+  color: grey;
+}
+
+.active {
+  color: brown ;
+  border-bottom: 1px solid brown;
+
+}
+
+.head-nav {
+  background-color: #151515;
+  padding: 1rem 1.5rem;
+}
