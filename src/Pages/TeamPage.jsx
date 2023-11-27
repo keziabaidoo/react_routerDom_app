@@ -4,9 +4,10 @@ import { Outlet } from 'react-router-dom';
 function TeamPage() {
     return (
       <>
-      <h2>Meet the team</h2>
+      <h2 style={{color: "brown"}}>Meet the team</h2>
       
       <main style={{marginTop: "1.5rem"}}>
+      
       <Outlet />
 
       </main>
